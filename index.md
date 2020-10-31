@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+<div dir="rlt">
+باسلام
+<br>
 
-You can use the [editor on GitHub](https://github.com/bahram200/SOP/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+با توجه به اینکه دانشگاه پیام نور یک دانشگاه باز و آموزش از راه دور می باشد و محیطی ایمن برای گسترش دانش، یادگیری در همه جا و بستر مناسبی برای ارتقا علمی و پژوهشی می باشد. من این دانشگاه را برای تحصیل انتخاب کردم.
+<br>
+  اولین دلیل اینجانب برای تحصیل در رشته مهندسی نرم افزار علاقه است من واقعا این رشته را دوست دارم دلیل دیگر بنده برای تحصیل در این رشته بازار کار مناسبی است که برای فارغ التحصیلان این رشته وجود دارد.
+<br>
+ مراکز بخش خصوصی و وزارتخانه ها و تمامی موسسات دولتی و بانک ها بازار کار مناسبی برای فارغ التحصیلان این رشته می باشند 
+<br>
+و اکثر استارتاپ ها در حوزه نرم افزار فعالیت دارند و نیازمند افرادی دارای توانایی برنامه نویسی و توسعه و طراحی وب هستند. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<br>
+مزیت هایی مثل 1- غیر حضوری بودن و عدم اجبار به حضور در کلاس 2- هزینه تحصیل کمتر نسبت به سایر دانشگاه ها باعث جذب اینجانب به دانشگاه پیام نور شده است. در زمینه رشته ای که در آن مشغول تحصیل هستم تجربیات زیادی کسب کرده ام در زمینه برنامه نویسی سیستمی و کاربردی و تحت وب تجربیات ارزشمندی به دست آورده ام. دوست دارم تجربیات جدیدی در زمینه فناوری های نوین در حوزه نرم افزار کسب کنم با مفاهیم جدید و پیشرفته آشنا بشم و چیزهای جدیدی یاد بگیرم با نرم افزارهای جدید و به روز کار کنم و آشنا بشم. بعد از اتمام تحصیل دوست دارم کارهای پژوهشی و تیمی انجام بدم.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/bahram200/SOP/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<br>
+ با توجه به شناختی که از خود و توانمندیهایی که دارم فکر می کنم در کار تیمی و عملی موفق تر باشم . به سفر و سیاحت و ورزش علاقه دارم و دوست دارم با مکان ها و شهرهای مختلف آشنا بشم.
+<br>
+</div>
